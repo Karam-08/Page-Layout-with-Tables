@@ -1,0 +1,35 @@
+body{
+    
+}
+
+.table-style {
+    background-color: rgb(0, 142, 106);
+    border: 2px solid black;
+    text-align: center;
+    width: 100%;
+}
+
+#header{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(218, 16, 46);
+}
+
+table{
+    text-wrap: wrap;
+}
+
+.navigation-bar td{
+    border: solid 3px rgb(218, 16, 46);
+}
+
+.navigation-bar td:hover{
+    background-color: rgb(218, 16, 46);
+    border: solid 3px rgb(0,0,0);
+    font-weight: bolder;
+}
+
+#sidebar{
+    text-wrap: wrap;
+    width: 100px;
+}
